@@ -46,7 +46,7 @@ Cinema HQ - The number one application to watch all your favourite movies and tv
 
 Cinema HQ has been built with the user in mind and has a super easy-to-use elegant UI so you can find what you want when you want.
 
-The application is a one-click play, but with the integration of Real Debrid, it will give you super good streamlined quality.
+The application is a one-click play, but with the integration of Real Debrid & Premiumize, it will give you super good streamlined quality.
 
 [![Cinema HQ UI](https://www.cinemahq.app/public/SectionImages/screen_2-1200w.png)](https://www.cinemahq.app/#)
 

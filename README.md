@@ -14,7 +14,7 @@ Cinema HQ - The number one application to watch all your favourite movies and tv
 
 ### Download & Codes
 
-* **Download Version 3.2:** [Get Cinema HQ](https://cinemahq.app/dl/chq/)
+* **Download Cinema HQ Now:** [Get Cinema HQ](https://cinemahq.app/dl/chq/)
 * **Applinked Code:** `144`
 * **Downloader Code:** `764496`
 

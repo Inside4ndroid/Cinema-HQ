@@ -1,92 +1,115 @@
-# Cinema HQ
+<div align="center">
+
+![Cinema HQ](https://www.cinemahq.app/public/SectionImages/mainlogo.png)
+
+# Cinema HQ — #1 Media Application
+
+**Watch Everything. All in One Place.**
+
+Cinema HQ is the ultimate media app for Android — Movies, TV-Shows, Live TV, Anime, Retro Games and more, wrapped in a sleek Material interface with Debrid & torrent service support.
+
+[![Download v6.3](https://img.shields.io/badge/Download-v6.3_APK-4f8ef7?style=for-the-badge&logo=android)](https://cinemahq.app/dl/)
+[![Discord](https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord)](https://discord.com/invite/NNxnW3Unh4)
+[![GitHub](https://img.shields.io/badge/GitHub-Releases-24292e?style=for-the-badge&logo=github)](https://github.com/Inside4ndroid/Cinema-HQ/releases)
+[![Sponsor](https://img.shields.io/badge/Sponsor-Donate-ea4aaa?style=for-the-badge&logo=githubsponsors)](https://github.com/sponsors/Inside4ndroid)
+
+</div>
 
 ---
 
-## The Easiest Way to Watch Anything
+## Features
 
-Cinema HQ - The number one application to watch all your favourite movies and tv-shows.
-
----
-
-[![Download Cinema HQ](https://www.cinemahq.app/public/SectionImages/screen_5-1500h.png)](https://cinemahq.app/dl/chq/)
-
----
-
-### Download & Codes
-
-* **Download Cinema HQ Now:** [Get Cinema HQ](https://cinemahq.app/dl/chq/)
-* **Applinked Code:** `144`
-* **Downloader Code:** `764496`
+| | Feature | Description |
+|---|---|---|
+| 🎬 | **Movies** | 100,000+ movies on demand. Browse by genre, year, TMDb rating and more. |
+| 📺 | **TV Shows** | Every season of your favourite series, from classics to the latest releases. |
+| 📡 | **Live TV** | Hundreds of live channels via CHQ TV, Xumo, Tubi, Pluto, Samsung TV+, Roku TV and more. |
+| ⛩️ | **Anime** | Dedicated Anime section — TV series, movies, OVA, ONA and specials. |
+| 🎮 | **Retro Games** | Built-in SNES and Sega Genesis library with integrated emulator support. |
+| 🔍 | **Smart Search** | Search across all content types. Filter by genre, year, rating and more. |
+| 📥 | **Downloads** | Download content for offline viewing via TorBox or your connected debrid service. |
+| 🔖 | **Watchlist & History** | Track what you've watched, pick up where you left off, and plan what's next. |
 
 ---
 
-### Trusted by Many
+## How to Install
 
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1552234994-66ba234fd567?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDN8fHBvdHJhaXR8ZW58MHx8fHwxNjY3MjQ0ODcx&amp;ixlib=rb-4.0.3&amp;w=200" width="50" style="border-radius: 50%;">
-  <img src="https://images.unsplash.com/photo-1610276198568-eb6d0ff53e48?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDF8fHBvdHJhaXR8ZW58MHx8fHwxNjY3MjQ0ODcx&amp;ixlib=rb-4.0.3&amp;w=200" width="50" style="border-radius: 50%;">
-  <img src="https://images.unsplash.com/photo-1618151313441-bc79b11e5090?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDEzfHxwb3RyYWl0fGVufDB8fHx8MTY2NzI0NDg3MQ&amp;ixlib=rb-4.0.3&amp;w=200" width="50" style="border-radius: 50%;">
-  <br>
-  Loved by 250,000+ people like you.
-</p>
+Cinema HQ is a sideload-ready APK for Android. Follow these simple steps:
 
----
+**Step 1 — Downloader App (Fire TV / Android TV)**
+> Open the **Downloader** app from your device's app store and enter code: **`1844719`**
 
-## Cinema HQ - #1 Media Application
+**Step 2 — Or use Applinked**
+> Install **Applinked** and enter store code: **`144`**
 
-### Key Features
+**Step 3 — Direct APK Download (Phone / Tablet)**
+> Download the APK directly from [cinemahq.app/dl/](https://cinemahq.app/dl/) and install it.
 
-* **Movies:** 100,000+ Movies on demand
-* **TV-Shows:** 100,000+ TV-Shows on demand
-* **Debrid Support:** One-click play or connect Real Debrid
+**Step 4 — Connect & Enjoy**
+> Open Cinema HQ. Optionally connect a debrid service for premium quality streams, then sit back and enjoy!
 
 ---
 
-### Easy and Simple to Use
+## Codes & Quick Access
 
-Cinema HQ has been built with the user in mind and has a super easy-to-use elegant UI so you can find what you want when you want.
-
-The application is a one-click play, but with the integration of Real Debrid & Premiumize, it will give you super good streamlined quality.
-
-[![Cinema HQ UI](https://www.cinemahq.app/public/SectionImages/screen_2-1200w.png)](https://www.cinemahq.app/#)
-
-[**Download Now ->**](https://www.cinemahq.app/#)
+| Service | Code | Instructions |
+|---|---|---|
+| **Applinked** | `144` | Open Applinked → tap *Enter Code* → type `144` |
+| **Downloader** | `1844719` | Open Downloader → enter code `1844719` to load the APK |
 
 ---
 
-## Real Debrid & Premiumize - What is it & how does it work?
+## Premium Services *(all optional)*
 
-Here is a brief introduction to Real Debrid and how it works.
-**NOTE:** Cinema HQ does NOT require Real Debrid or Premiumize to function.
+Cinema HQ works perfectly out of the box. Connecting a premium service unlocks higher-quality streams, faster speeds, and extra features. **None of these are required.**
 
-### What Is It?
+### Real-Debrid
+A premium link host and torrent downloader. Caches popular torrents for instant streaming at up to 1 Gbps — no seeders required. Supports 4K HDR content from major file hosts.
+> [Get a Real-Debrid Account →](http://real-debrid.com/?id=953975)
 
-#### Real Debrid & Premiumize Overview
+### Premiumize
+Premium multi-host service with cloud storage. Unlocks HD/UHD streams from 200+ file hosts and caches torrents in the cloud for instant, high-speed playback.
+> [Get a Premiumize Account →](https://www.premiumize.me/)
 
-Real-Debrid & Premiumize are a download service to access high-quality links to HD content. It supplies content to subscribers only.
+### TorBox
+A modern torrent caching service. Provides fast, reliable cached torrents and direct downloads with competitive pricing and excellent streaming support.
+> [Get a TorBox Account →](https://torbox.app/subscription?referral=a43c4cf6-a993-4259-a2ee-94dcc1aa64c2)
 
-[**Get A Real Debrid Account >**](http://real-debrid.com/?id=953975)
-
-[**Get A Premiumize Account >**](https://www.premiumize.me/)
-
----
-
-### How Does It Work?
-
-#### Real Debrid & Premiumize How It Works
-
-Real Debrid & Premiumize allows you to download and stream all kinds of content from software, music, games, ... to 4k movies (40GB+), that are hosted on supported premium file hosters like Rapidgator, Uploaded, Filefactory, Turbobit, Nitroflare, etc., at great speeds (1+ Gbps). It also caches a lot of movie torrents, giving you instant download/streaming without the need for seeders.
-
-[**Get A Real Debrid Account >**](http://real-debrid.com/?id=953975)
-
-[**Get A Premiumize Account >**](https://www.premiumize.me/)
+### Trakt
+Track everything you watch and sync your history across all devices and apps. Powers your watchlist, recommendations and progress inside Cinema HQ.
+> [Get a Trakt Account →](https://app.trakt.tv/)
 
 ---
 
-## Keeping Cinema HQ Advert Free!
+## Keeping Cinema HQ 100% Advert-Free — Honeygain
 
 ![Honeygain Logo](https://cinemahq.app/public/Icons/hg-200h.png)
 
-Honeygain is used to be able to keep this application advert-free with no pop-ups or anything to spoil the elegant UI. To find out more about Honeygain, please don't hesitate to take a look at their website.
+Cinema HQ contains **no banner ads, no pop-ups and no interstitials**. To fund ongoing development without disrupting your experience, Cinema HQ integrates the **Honeygain SDK** — a background resource-sharing service that passively uses a small amount of your unused internet bandwidth. You are always in control and can opt out at any time.
 
-[**Visit HoneyGain >**](https://www.honeygain.com/sdk)
+- Uses only idle, unused bandwidth — your active connection is never affected
+- Runs silently in the background and does not log or transmit your personal data
+- No adverts, no pop-ups and no pay-walls — ever
+- Directly funds the app to keep it free and maintained
+
+> [Learn more about Honeygain SDK →](https://www.honeygain.com/sdk)
+
+---
+
+## Links
+
+| | Link |
+|---|---|
+| 🌐 Website | [cinemahq.app](https://cinemahq.app) |
+| 📦 Download | [cinemahq.app/dl/](https://cinemahq.app/dl/) |
+| 💬 Discord | [discord.com/invite/NNxnW3Unh4](https://discord.com/invite/NNxnW3Unh4) |
+| 🐙 GitHub Releases | [Cinema-HQ/releases](https://github.com/Inside4ndroid/Cinema-HQ/releases) |
+| ❤️ Sponsor | [github.com/sponsors/Inside4ndroid](https://github.com/sponsors/Inside4ndroid) |
+
+---
+
+<div align="center">
+
+© 2024 Cinema HQ · Built by [Inside4ndroid](https://github.com/Inside4ndroid)
+
+</div>

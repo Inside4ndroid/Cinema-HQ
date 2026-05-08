@@ -25,6 +25,7 @@ Cinema HQ is the ultimate media app for Android — Movies, TV-Shows, Live TV, A
 | 📺 | **TV Shows** | Every season of your favourite series, from classics to the latest releases. |
 | 📡 | **Live TV** | Hundreds of live channels via CHQ TV, Xumo, Tubi, Pluto, Samsung TV+, Roku TV and more. |
 | ⛩️ | **Anime** | Dedicated Anime section — TV series, movies, OVA, ONA and specials. |
+| 🔞 | **Adult Content** | Dedicated Adult section — This section is hidden but can be enabled via settings with a secure pin. |
 | 🎮 | **Retro Games** | Built-in SNES and Sega Genesis library with integrated emulator support. |
 | 🔍 | **Smart Search** | Search across all content types. Filter by genre, year, rating and more. |
 | 📥 | **Downloads** | Download content for offline viewing via TorBox or your connected debrid service. |

@@ -64,9 +64,9 @@ Cinema HQ is a sideload-ready APK for Android. Follow these simple steps:
 
 Cinema HQ works perfectly out of the box. Connecting a premium service unlocks higher-quality streams, faster speeds, and extra features. **None of these are required.**
 
-### Real-Debrid
+### All-Debrid
 A premium link host and torrent downloader. Caches popular torrents for instant streaming at up to 1 Gbps — no seeders required. Supports 4K HDR content from major file hosts.
-> [Get a Real-Debrid Account →](http://real-debrid.com/?id=953975)
+> [Get a All-Debrid Account →](https://alldebrid.com/)
 
 ### Premiumize
 Premium multi-host service with cloud storage. Unlocks HD/UHD streams from 200+ file hosts and caches torrents in the cloud for instant, high-speed playback.
@@ -75,6 +75,10 @@ Premium multi-host service with cloud storage. Unlocks HD/UHD streams from 200+ 
 ### TorBox
 A modern torrent caching service. Provides fast, reliable cached torrents and direct downloads with competitive pricing and excellent streaming support.
 > [Get a TorBox Account →](https://torbox.app/subscription?referral=a43c4cf6-a993-4259-a2ee-94dcc1aa64c2)
+
+### EasyNews
+A premium link host. fetch sources deirectly from EasyNews (Usenet) within the app
+> [Get an EasyNews Account →](https://www.easynews.com/)
 
 ### Trakt
 Track everything you watch and sync your history across all devices and apps. Powers your watchlist, recommendations and progress inside Cinema HQ.

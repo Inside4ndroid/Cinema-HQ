@@ -38,7 +38,7 @@ Cinema HQ is the ultimate media app for Android — Movies, TV-Shows, Live TV, A
 Cinema HQ is a sideload-ready APK for Android. Follow these simple steps:
 
 **Step 1 — Downloader App (Fire TV / Android TV)**
-> Open the **Downloader** app from your device's app store and enter code: **`1844719`**
+> Open the **Downloader** app from your device's app store and enter code: **`9013501`**
 
 **Step 2 — Or use Applinked**
 > Install **Applinked** and enter store code: **`144`**
@@ -56,7 +56,7 @@ Cinema HQ is a sideload-ready APK for Android. Follow these simple steps:
 | Service | Code | Instructions |
 |---|---|---|
 | **Applinked** | `144` | Open Applinked → tap *Enter Code* → type `144` |
-| **Downloader** | `1844719` | Open Downloader → enter code `1844719` to load the APK |
+| **Downloader** | `9013501` | Open Downloader → enter code `9013501` to load the APK |
 
 ---
 

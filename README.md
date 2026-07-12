@@ -8,7 +8,7 @@
 
 Cinema HQ is the ultimate media app for Android — Movies, TV-Shows, Live TV, Anime, Retro Games and more, wrapped in a sleek Material interface with Debrid & torrent service support.
 
-[![Download v7.3](https://img.shields.io/badge/Download-v7.3_APK-4f8ef7?style=for-the-badge&logo=android)](https://cinemahq.app/dl/)
+[![Download v7.4](https://img.shields.io/badge/Download-v7.4_APK-4f8ef7?style=for-the-badge&logo=android)](https://cinemahq.app/dl/)
 [![Discord](https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord)](https://discord.gg/nHHxpWHteE)
 [![GitHub](https://img.shields.io/badge/GitHub-Releases-24292e?style=for-the-badge&logo=github)](https://github.com/Inside4ndroid/Cinema-HQ/releases)
 [![Sponsor](https://img.shields.io/badge/Sponsor-Donate-ea4aaa?style=for-the-badge&logo=githubsponsors)](https://github.com/sponsors/Inside4ndroid)

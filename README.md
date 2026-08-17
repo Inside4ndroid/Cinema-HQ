@@ -76,6 +76,10 @@ Premium multi-host service with cloud storage. Unlocks HD/UHD streams from 200+ 
 A modern torrent caching service. Provides fast, reliable cached torrents and direct downloads with competitive pricing and excellent streaming support.
 > [Get a TorBox Account →](https://torbox.app/subscription?referral=a43c4cf6-a993-4259-a2ee-94dcc1aa64c2)
 
+### Real-Debrid
+an online unrestricted downloader and multi-hoster service that lets you download files or stream media at maximum speed.
+> [Get a Real-Debrid Account →](http://real-debrid.com/?id=953975)
+
 ### EasyNews
 A premium link host. fetch sources deirectly from EasyNews (Usenet) within the app
 > [Get an EasyNews Account →](https://www.easynews.com/)

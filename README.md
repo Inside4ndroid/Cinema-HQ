@@ -92,7 +92,7 @@ Track everything you watch and sync your history across all devices and apps. Po
 
 ## Keeping Cinema HQ 100% Advert-Free — EarnFM
 
-![EarnFM Logo](https://cinemahq.app/public/Icons/hg-200h.png)
+![EarnFM Logo](https://cinemahq.app/public/Icons/hg-201h.png)
 
 Cinema HQ contains **no banner ads, no pop-ups and no interstitials**. To fund ongoing development without disrupting your experience, Cinema HQ integrates the **EarnFM SDK** — a background resource-sharing service that passively uses a small amount of your unused internet bandwidth. You are always in control and can opt out at any time.
 
